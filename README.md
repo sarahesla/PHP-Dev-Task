@@ -16,6 +16,8 @@ As you’ll see on my resume, I also have a more formal post-secondary education
 
 I also tried to apply OOP principles like Encapsulation and SOLID principles like Single Responsibility. I wanted to avoid making my implementation too complicated, but in a larger project I would apply further SOLID principles to make the program extendable with minimal complications.
 
-For example, if we wanted car’s to behave differently on different track element types, I would make a Track Interface for each track type to implement. This way, you could add new track types and pass them into Race without breaking the code. This would adhere to the Liskov Substitution principle, and depending on how you do it also the Open-Close and Dependency Inversion principles.
+For example, if we wanted cars to behave differently on different track element types, I would make a Track Interface for each track type to implement. This way, you could add new track types and pass them into Race without breaking the code. This would adhere to the Liskov Substitution principle, and depending on how you do it also the Open-Close and Dependency Inversion principles.
 
 Anyways, I don’t want to make this too long but according to the job post, Katipult is looking for people who are unconventional, hard working and easy to work with. As somebody who started her own business from her bedroom to pay for school, I think I fit the bill and would love the opportunity to interview!
+
+-Sarah
